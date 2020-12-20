@@ -25,7 +25,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.rough (1)">
+  <component name="RunManager" selected="Python.rough (2)">
     <configuration default="true" type="DjangoTestsConfigurationType">
       <module name="Informatics_Practices" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,28 +86,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/17_11_2020_grade.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="17_11_2020_greater_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Informatics_Practices" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/others" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/others/17_11_2020_greater_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,6 +174,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class12/rough.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="rough (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Informatics_Practices" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Informatics_Practices/class12" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Informatics_Practices/class12/rough.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +321,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.rough (2)" />
         <item itemvalue="Python.rough (1)" />
         <item itemvalue="Python.rough" />
         <item itemvalue="Python.19_11_2020" />
         <item itemvalue="Python.17_11_2020_grade" />
-        <item itemvalue="Python.17_11_2020_greater_3" />
       </list>
     </recent_temporary>
   </component>
@@ -344,7 +344,7 @@
       <workItem from="1606362257553" duration="148000" />
       <workItem from="1606362539541" duration="276000" />
       <workItem from="1606362897337" duration="982000" />
-      <workItem from="1606443941971" duration="2148000" />
+      <workItem from="1606443941971" duration="3441000" />
     </task>
     <servers />
   </component>
@@ -360,25 +360,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="256" y="203" key="FileChooserDialogImpl/0.0.1440.900@0.0.1440.900" timestamp="1606363062515" />
-    <state width="1398" height="442" key="GridCell.Tab.0.bottom" timestamp="1606446639669">
+    <state width="1398" height="442" key="GridCell.Tab.0.bottom" timestamp="1606658441148">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="442" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606446639669" />
+    <state width="1398" height="442" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1606658441148" />
     <state width="1398" height="382" key="GridCell.Tab.0.bottom/0.25.1440.822@0.25.1440.822" timestamp="1606446234345" />
-    <state width="1398" height="442" key="GridCell.Tab.0.center" timestamp="1606446639667">
+    <state width="1398" height="442" key="GridCell.Tab.0.center" timestamp="1606658441146">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="442" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606446639667" />
+    <state width="1398" height="442" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1606658441146" />
     <state width="1398" height="382" key="GridCell.Tab.0.center/0.25.1440.822@0.25.1440.822" timestamp="1606446234344" />
-    <state width="1398" height="442" key="GridCell.Tab.0.left" timestamp="1606446639666">
+    <state width="1398" height="442" key="GridCell.Tab.0.left" timestamp="1606658441146">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="442" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606446639666" />
+    <state width="1398" height="442" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1606658441146" />
     <state width="1398" height="382" key="GridCell.Tab.0.left/0.25.1440.822@0.25.1440.822" timestamp="1606446234343" />
-    <state width="1398" height="442" key="GridCell.Tab.0.right" timestamp="1606446639668">
+    <state width="1398" height="442" key="GridCell.Tab.0.right" timestamp="1606658441147">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="442" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606446639668" />
+    <state width="1398" height="442" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1606658441147" />
     <state width="1398" height="382" key="GridCell.Tab.0.right/0.25.1440.822@0.25.1440.822" timestamp="1606446234344" />
     <state x="229" y="86" key="SettingsEditor" timestamp="1606363153366">
       <screen x="0" y="0" width="1440" height="900" />
@@ -398,6 +398,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/InformaticsPractices$17_11_2020__1_.coverage" NAME="17_11_2020 (1) Coverage Results" MODIFIED="1605610756229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
+    <SUITE FILE_PATH="coverage/InformaticsPractices$rough__2_.coverage" NAME="rough (2) Coverage Results" MODIFIED="1606632584534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Informatics_Practices/class12" />
     <SUITE FILE_PATH="coverage/InformaticsPractices$17_11_2020_grade.coverage" NAME="17_11_2020_grade Coverage Results" MODIFIED="1605611846429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
     <SUITE FILE_PATH="coverage/InformaticsPractices$1_one.coverage" NAME="17_11_2020 Coverage Results" MODIFIED="1605593779055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class11" />
     <SUITE FILE_PATH="coverage/InformaticsPractices$rough.coverage" NAME="rough Coverage Results" MODIFIED="1606363350245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/others" />
