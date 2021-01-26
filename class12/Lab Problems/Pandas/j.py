@@ -8,5 +8,6 @@ data={
       }
 df=pd.DataFrame(data)
 
+
 for col in df.iteritems():
     print(col)

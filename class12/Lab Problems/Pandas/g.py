@@ -1,8 +1,8 @@
 #Aim: Given a series that stores he area of some states in km. Write a pyhthon program to find out the biggest and smallest 3 areas from the given series.
-data=[34567,890,450,67892,34677,78902,256711,678291,637632,25723,2367,11789,345,256517]
-s1=pd.Series(data)
+# data=[34567,890,450,67892,34677,78902,256711,678291,637632,25723,2367,11789,345,256517]
+# s1=pd.Series(data)
 
-Sol:
+# Sol:
 import pandas as pd
 data=[34567,890,450,67892,34677,78902,256711,678291,637632,25723,2367,11789,345,256517]
 s1=pd.Series(data)
