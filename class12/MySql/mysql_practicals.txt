@@ -35,6 +35,27 @@ Sol:select * from student where name like "R%";
 Aim: Write a SQL query to display name of weekday for date 3rd Feb 2009
 Sol: Select dayname('2009-02-03');
 
-10. Tuncate value 15.79 to 1 decimal place.
+10.
+Aim:Tuncate value 15.79 to 1 decimal place.
 Sol: select truncate(15.79,1) "Truncate";
+
+11.
+Aim: Round off 15.193 to one decimal place
+Sol: select round(15.193,1) "Round";
+
+12.
+Aim: Write a query to remove both leading and trailing x characters from string 'xxxxBar One xxxx'
+Sol: select trim(both 'x' from 'xxxxBar One xxxx');
+
+13.
+Aim: Concat Name and Marks from student table and display as NM
+Sol: select concat(name,marks) as nm from student;
+
+14.
+Aim: Write a sql command to decrement the marks of all students from student table by 20
+Sol: update student set marks=marks-10;
+
+15.
+Aim: Write a sql query to display distinct country names from customer table.
+Sol: select distinct country from customers;
 
