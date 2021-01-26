@@ -1,0 +1,40 @@
+1.
+Aim: Create a student table with the student id, name, and marks as attributes where the student id is the primary key.
+Sol: create table student (student_id varchar(20) primary key, name varchar(30), marks int(10));
+
+2.
+Aim: Insert the details of a new student in the student table.
+Sol: insert into student values("apsj001","Ram",100);
+
+3.
+Aim: Delete the details of a student in student table.
+Sol: delete from student where student_id="apsj001";
+
+4.
+Aim:Use the select command to get the details of the students with marks more than 80.
+Sol: select * from student where marks>80;
+
+5.
+Aim: Find the min, max, sum, and average of the marks in a student marks table.
+Sol: select max(marks),min(marks),avg(marks) from student;
+
+6.
+Aim: Find the total number of customers from each country in the table (customer ID, customer Name, country) using
+group by.
+Sol: select country,count(*) from customers group by country;
+
+7.
+Aim: Write a SQL query to order the (student ID, marks) table in descending order of the marks.
+Sol: select student_id,marks from student order by marks desc;
+
+8.
+Aim: Display the marks of all students whose name starts with R.
+Sol:select * from student where name like "R%";
+
+9.
+Aim: Write a SQL query to display name of weekday for date 3rd Feb 2009
+Sol: Select dayname('2009-02-03');
+
+10. Tuncate value 15.79 to 1 decimal place.
+Sol: select truncate(15.79,1) "Truncate";
+
