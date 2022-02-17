@@ -1,0 +1,5 @@
+#TO PRINT YOUR NAME n NUMBER OF TIMES
+n=int(input("ENTER THE NUMBER OF TIMES YOU WANT TO PRINT YOUR NAME:"))
+k=input("ENTER YOUR NAME:")
+for i in range(0,n):
+	print(k)

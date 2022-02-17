@@ -6,4 +6,5 @@ names=['Asma','Bela','Chris','Diya','Saqib']
 plt.barh(names,heights)
 plt.xlabel("HEIGHTS")
 plt.ylabel("NAMES")
+
 plt.show()
