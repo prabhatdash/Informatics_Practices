@@ -6,4 +6,5 @@ marks=[12,10,10,15,17,16,18,14,16,13]
 plt.plot(week,marks)
 plt.xlabel("WEEK")
 plt.ylabel("MARKS")
+plt.savefig('2.png')
 plt.show()

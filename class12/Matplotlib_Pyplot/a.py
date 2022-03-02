@@ -3,9 +3,8 @@
 import matplotlib.pyplot as plt
 marks=[80,70,60,90,95]
 subjects=["English","Maths","Physics","Chemistry","IP"]
-plt.plot(subjects,marks,marker='o',color=['b','g','y','k'],label='marks')
-plt.legend()
+plt.bar(subjects,marks)
 plt.xlabel("SUBJECTS")
 plt.ylabel("MARKS")
+plt.savefig('1.png')
 plt.show()
-plt.savefig('abc.png')

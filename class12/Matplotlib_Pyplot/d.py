@@ -7,4 +7,5 @@ ages=[1,1,2,3,5,7,8,9,10,10,11,13,13,15,16,17,18,19,20,21,21,23,24,24,24,25,25,2
 plt.hist(ages,bins=20)
 plt.xlabel("No of Participants")
 plt.ylabel("Age of Participants")
+plt.savefig('3.png')
 plt.show()
